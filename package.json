@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/solocal-test.blank-kwvyyr8x",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve qiWnKf4yNUiD6BaKAsMC --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
